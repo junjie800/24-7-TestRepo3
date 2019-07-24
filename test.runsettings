@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RunSettings>
+  <!-- Configurations that affect the Test Framework -->
+  
+<RunConfiguration>
+<!-- Framework35 | [Framework45] | Framework45 -->
+    <TargetFrameworkVersion>Framework40</TargetFrameworkVersion>
+</RunConfiguration>
+</RunSettings>
